@@ -3,4 +3,5 @@
 
 yarn test
 yarn format
+yarn prisma format
 git add -A .

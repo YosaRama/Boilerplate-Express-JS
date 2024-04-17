@@ -1,5 +1,6 @@
 import express, { json } from 'express';
 import router from './routes';
+import './utils/schedular';
 import cors from 'cors';
 
 const app = express();
